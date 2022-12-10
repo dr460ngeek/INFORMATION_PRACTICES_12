@@ -1,17 +1,13 @@
-# INFORMATICS PRACTICES with Python
+# INFORMATION PRACTICES
 
-This repository contains resources, questions & answers of Class 12th IP.
+![IPMains](https://github.com/Shiv-Learning-Cente/Information-Practices-XII/blob/main/assets/IPMain.jpg)
 
-## Chapters
+# CHAPTERS & MARKS DISTRIBUTION
 
-1. NumPy
-2. Data Visualization Using Pyplot
-3. Python Pandas
-4. Introduction to Software Engineering
-5. Agile Methods and Practical Aspects of Software Engineering
-6. Web Development with Django
-7. Interface Python with SQL
-8. More on SQL
-9. Society, Law and Ethics
+![IPMARKS](https://github.com/Shiv-Learning-Cente/Information-Practices-XII/blob/main/assets/CHAP.png)
 
+# QUESTION PAPER PATTERN (2022-23)
 
+![IPPAPER](https://github.com/Shiv-Learning-Cente/Information-Practices-XII/blob/main/assets/PAPER.jpeg)
+
+# © 2022 by <b> Aspire Academy </b>, All Rights Reserved.
