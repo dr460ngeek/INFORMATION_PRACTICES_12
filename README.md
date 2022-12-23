@@ -1,4 +1,6 @@
-# INFORMATION PRACTICES
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ASPIRE-ACADEMY/INFORMATION_PRACTICES_12/HEAD)
+
+# INFORMATION PRACTICES 
 
 ![IPMains](https://github.com/Shiv-Learning-Cente/Information-Practices-XII/blob/main/assets/IPMain.jpg)
 
