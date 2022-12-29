@@ -13,4 +13,8 @@
 
 ![IPPAPER](https://github.com/Shiv-Learning-Cente/Information-Practices-XII/blob/main/assets/PAPER.jpeg)
 
+## REPLIT
+
+[SQL PRACTICAL](https://replit.com/join/zzmuppjavo-sushil007)
+
 # © 2022 by <b> Aspire Academy </b>, All Rights Reserved.
