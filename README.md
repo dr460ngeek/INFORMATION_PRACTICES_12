@@ -1,6 +1,6 @@
 ## THIS IS TO INFORM THAT 
-THIS REPO AND COURSE IS OWNED BY ASPIRE ACADEMY AND CREATED BY SUSHIL SIR AKA @ODDEXTENSION5.
-THE ORIGINAL LINK TO THE REPO WHICH WILL STAY UPDATED TIME TO TIME IS HERE LINKED BELOW.
+This repo and course is owned by aspire academy and created by sushil sir aka @oddextension5.
+The original link to the repo which will stay updated time to time is here linked below.
 
 ```https://github.com/ASPIRE-ACADEMY/INFORMATION_PRACTICES_12```
 
